@@ -1,6 +1,7 @@
-# Bruno Gonçalves
+# Desenvolvimento Backend com Python
 
-Olá!! Nesse repositório estarei compartilhando meus códigos da trilha de estudos do Bootcamp Python AI Backend Developer da DIO.
+Olá!! Meu nome é Bruno Gonçalves e nesse repositório estarei compartilhando meus códigos da trilha de estudos do Bootcamp Python AI Backend Developer da DIO.
+
 Todos os códigos estão com variáveis, strings e comentários em inglês para exerecício constante da língua.
 
 ## Como me achar
