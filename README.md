@@ -42,7 +42,7 @@ Todos os códigos estão com variáveis, strings e comentários em inglês para 
 
 ![Comunicação](https://img.shields.io/badge/Comunicação-000?style=for-the-badge)
 
-![Liderança](https://img.shields.io/badge/Resiliência-000?style=for-the-badge)
+![Liderança](https://img.shields.io/badge/Liderança-000?style=for-the-badge)
 
 ![Proatividade](https://img.shields.io/badge/Proatividade-000?style=for-the-badge)
 
