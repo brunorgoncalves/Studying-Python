@@ -11,6 +11,8 @@ Todos os códigos estão com variáveis, strings e comentários em inglês para 
 ## Hardskills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 [comment]: <> (This "[//]: #" is a comment paramether that i used to take out some skill that i dont have, but already were configured. Sometime, if I need, I can reuse it)
 
