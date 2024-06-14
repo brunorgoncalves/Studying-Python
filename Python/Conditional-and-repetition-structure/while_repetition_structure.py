@@ -1,7 +1,23 @@
 option = -1
+name = "Bruno"
 
 while option != 0:
-    option = int(input(" [1] Withdraw \n [2] Extract \n [3] Historic \n [0] Sair \n Choose an option: "))
+
+    option = int(input(f"""
+                       
+=======================Access Menu=======================
+            
+Hello {name} ! We are glad to have you here again !
+What do you want to do today ?                       
+                    
+    [1] Withdraw 
+    [2] Extract 
+    [3] Historic 
+    [0] Sair 
+
+========================================================= 
+
+Choose an option: """))
 
     if option == 1:
         print("Whitdrawing...")
@@ -19,4 +35,4 @@ while option != 0:
     elif option > 3 or option < 0:
         print("Invalid option. Try again !")
 else:
-    print("Thank you for the preference. Enjoy you day and until the next time !")
+    print(f"Thank you for the preference {name}. Enjoy your day and until the next time !")
